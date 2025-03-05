@@ -1,5 +1,3 @@
-![481109446_1105539854704825_7066101384335692221_n](https://github.com/user-attachments/assets/ce5e79e2-30ea-4822-b46e-3a974cdaf62e)# 🚀 SafeTrack – Your Secure Tracking Solution
-
 [![Latest Release](https://img.shields.io/github/v/release/YourUsername/SafeTrack?style=for-the-badge)](https://github.com/YourUsername/SafeTrack/releases)
 [![Downloads](https://img.shields.io/github/downloads/YourUsername/SafeTrack/total?color=green&style=for-the-badge)](https://github.com/YourUsername/SafeTrack/releases)
 [![License](https://img.shields.io/github/license/YourUsername/SafeTrack?style=for-the-badge)](LICENSE)
