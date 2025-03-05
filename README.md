@@ -6,11 +6,16 @@
 
 ---
 
-📥 Download SafeTrack
-<div align="center"> <a href="https://www.mediafire.com/file/j8xsvkabg0ukmmk/SafeTrack.apk/file"> <img src="https://img.shields.io/badge/Download%20APK-Click%20Here-blue?style=for-the-badge&logo=android" alt="Download APK"> </a> </div>
-📌 Latest Version: v1.0.0
-📆 Updated On: March 2025
-💾 File Size: ~10MB
+📥 Download SafeTrack  
+<div align="center">
+  <a href="https://www.mediafire.com/file/j8xsvkabg0ukmmk/SafeTrack.apk/file">
+    <img src="https://img.shields.io/badge/Download%20APK-Click%20Here-blue?style=for-the-badge&logo=android" alt="Download APK" width="300" height="80">
+  </a>
+</div>
+
+📌 Latest Version: v1.0.0  
+📆 Updated On: March 2025  
+💾 File Size: ~10MB  
 
 ## 🎯 Features
 ✅ Real-time location tracking  
